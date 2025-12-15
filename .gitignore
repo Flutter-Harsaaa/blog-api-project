@@ -1,0 +1,24 @@
+# Ignore generated Prisma client
+/generated/prisma
+
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Environment
+.env
+
+# Prisma
+prisma/migrations/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
