@@ -65,8 +65,14 @@ A scalable, production-ready RESTful Blog Application API built with Node.js, Ex
 ## ⚙️ Installation
 
 ### 1. Clone the repository
+**HTTPS**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Flutter-Harsaaa/blog-api-project.git
+cd blog-api-project
+```
+**SSH**
+```bash
+git clone git@github.com:Flutter-Harsaaa/blog-api-project.git
 cd blog-api-project
 ```
 
