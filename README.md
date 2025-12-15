@@ -295,7 +295,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
+**Harsh Tiwari**
 - GitHub: [@Flutter-Harsaaa](https://github.com/Flutter-Harsaaa)
 - LinkedIn: [Harsh Tiwari](https://linkedin.com/in/dev-harshtiwari)
 - Email: official.devharshtiwari@gmail.com
